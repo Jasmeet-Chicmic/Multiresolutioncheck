@@ -1,4 +1,5 @@
-export enum TYPES{
-    CROP,
+export enum TYPES {
+    NONE,
+    CROPED,
     WITHOUTCROP
 }
